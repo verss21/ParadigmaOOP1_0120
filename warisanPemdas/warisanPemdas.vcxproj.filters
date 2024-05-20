@@ -18,5 +18,8 @@
     <ClCompile Include="warisanPemdas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="memberlist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
