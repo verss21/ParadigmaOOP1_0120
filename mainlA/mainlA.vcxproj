@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="asosiasicpp.cpp" />
+    <ClCompile Include="inheritance.cpp" />
     <ClCompile Include="mainlA.cpp" />
   </ItemGroup>
   <ItemGroup>

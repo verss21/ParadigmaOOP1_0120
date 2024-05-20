@@ -18,6 +18,12 @@
     <ClCompile Include="mainlA.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="asosiasicpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="inheritance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="anak.h">
